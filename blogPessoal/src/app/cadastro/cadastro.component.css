@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://st.depositphotos.com/1000922/2049/i/950/depositphotos_20495841-stock-photo-chess-white-background.jpg');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

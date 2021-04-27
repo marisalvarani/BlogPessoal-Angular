@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('https://cdn.pixabay.com/photo/2016/06/22/11/10/box-1472804__340.png');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
